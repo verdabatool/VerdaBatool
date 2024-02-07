@@ -25,8 +25,9 @@ At Maqsad, as an Academic Analyst since August 2022, I've:
 
 ## 📚 Education
 
-BSc (Hons) from Lahore University of Management Sciences (LUMS) 
-Relevant courses: Calculus, Linear Algebra, Differential Equations, Computational Problem Solving, Probability, Statistics, and Marketing.
+- **Lahore University of Management Sciences (LUMS)** | Bsc. (Hons) | 2017- 2021 | Relevant courses: Calculus, Linear Algebra, Differential Equations, Computational Problem Solving, Probability, Statistics, and Marketing.
+
+- **Atomcamp** | Data Science and AI Bootcamp | January 2024 - Present
 
 ## 🌐 Connect with Me
 
