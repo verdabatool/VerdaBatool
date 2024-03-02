@@ -31,5 +31,5 @@ At Maqsad, as an Academic Analyst since August 2022, I've:
 
 ## Connect with Me
 
-- LinkedIn: [Verda Batool](https://www.linkedin.com/in/verda-batool/)
+- Linkedin: [verda-batool](https://www.linkedin.com/in/verda-batool/)
 - Email: verda.batool.lums@gmail.com
