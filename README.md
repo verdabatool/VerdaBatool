@@ -1,10 +1,14 @@
 ## About Me
 
-Hi, I'm Verda Batool, a passionate Data Scientist with a BSc. (Hons) from Lahore University of Management Sciences (LUMS), specialized in leveraging data analytics and visualization to drive actionable insights and data-driven decision-making.  
+Hi, I’m Verda Batool, currently pursuing an MS in Artificial Intelligence at LUMS, with a strong interest in building real-world, user-focused AI products. My background sits at the intersection of data engineering, machine learning, NLP, and product development, and I enjoy turning complex problems into practical, scalable solutions.
 
-I am passionate about extracting actionable insights from raw data. With a track record of success in projects focused on sales analytics, customer segmentation, retention strategies, and data-driven analysis, I excel in transforming complex datasets into clear, impactful narratives. I specialize in leveraging SQL, advanced Excel, Power BI, Tableau, and Python to drive data driven business decisions.
+At Careem (an Uber company), I worked as a Data Analyst in the Acquisition & Market Ops team. I led initiatives that improved early-life driver retention by 30%, automated acquisition dashboards, and built systems that directly influenced growth in Pakistan’s major cities. Before that, at Maqsad, I focused on data-driven content strategy, helping improve user engagement in the EdTech space.
 
-My expertise lie in collaborating with cross-functional teams to identify key performance indicators, optimize data workflows, and implement scalable analytics solutions. My analytical acumen, coupled with a keen eye for detail, enables me to deliver high-quality, actionable insights that drive revenue growth, enhance customer engagement, and foster data-driven cultures.
+
+I’ve also worked on independent projects like JobMate, a culture-aware job recommendation system, and DeepChoice, a multimodal AI shopping assistant powered by LLM agents — both designed with scalability and user experience in mind.
+
+
+I’m currently exploring how LLM agents can power smarter, domain-specific assistants that blend reasoning, retrieval, and personalization.
 
 ## Education
 
@@ -15,11 +19,12 @@ My expertise lie in collaborating with cross-functional teams to identify key pe
 
   - _**BSc. (Hons)**_ | _**2017 - 2021**_
   
-    **Relevant courses:** Calculus, Linear Algebra, Differential Equations, Machine Learning, Probability, Statistics, Data Engineering for AI Systems, Large Language Models
+    **Relevant courses:** Calculus, Linear Algebra and Differential Equations, Probability, Statistics, Discrete Mathematics
 
 ## Projects
 
- ### **1. JOBMATE - AI POWERED JOB RECOMMENDATION SYSTEM**
+ ### [1. JOBMATE - AN AI POWERED JOB RECOMMENDATION SYSTEM](https://github.com/verdabatool/JobMate)
+
 
   JobMate is a job recommendation platform that aggregates open positions from 4 major job portals, enabling users to discover roles beyond skills, factoring in preferences like company culture, flexibility, and work-life balance. Hence, unlocking work opportunities personalized to skills and non-technical preferences.
   
@@ -32,7 +37,7 @@ My expertise lie in collaborating with cross-functional teams to identify key pe
   •	Delivered solution via a React-based frontend that consumed model outputs and presented real-time, personalized job recommendations.
   
 
-### **2. DEEPCHOICE: AI POWERED SHOPPING ASSISTANT FOR ECOMMERCE**
+### [2. DEEPCHOICE: AN AI POWERED SHOPPING ASSISTANT FOR ECOMMERCE](https://github.com/verdabatool/DeepChoice_)
 
   DeepChoice provides an innovative shopping experience to users by giving product recommendations based on user descriptions, saving users the hassle of going through hundreds of unrelated search results. It also automates the resolution of user complaints (albeit the ones requiring human intervention) and gives real time responses to user questions and queries.
   
@@ -79,7 +84,7 @@ My expertise lie in collaborating with cross-functional teams to identify key pe
 
 ### **Maqsad (An EdTech platform) | August 2022  –  March 2024**
 
-_Academic Content Analyst_
+**_Academic Content Analyst_**
 
   •	Enhanced user acquisition and engagement by 46% through comprehensive market research and data analysis.
   
